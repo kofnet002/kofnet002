@@ -50,17 +50,17 @@ You can click the Preview link to take a look at your changes.
         </tr>
     </tbody>
 </table>
-<!-- 
+
 ### Explore Channel 😊
 
 [![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw&theme=dark)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa&theme=dark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kofnet002&theme=dark)  
 
-[![Codewithdarkwa github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithdarkwa&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
+[![Kofnet002 github activity graph](https://activity-graph.herokuapp.com/graph?username=kofnet002&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)  
 
-![Profile views](https://gpvc.arturio.dev/codewithdarkwa)   -->
+![Profile views](https://gpvc.arturio.dev/kofnet002)
 
 
