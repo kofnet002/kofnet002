@@ -1,0 +1,66 @@
+- 👋 Hi, I’m @kofnet002
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on open projects
+- 📫 How to reach me ...
+
+<!---
+kofnet002/kofnet002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+
+<table width="420px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+          <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Django</strong></span><br>
+            <img height="32" src="https://cdn.iconscout.com/icon/free/png-128/django-1-282754.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+        </tr>
+    </tbody>
+</table>
+<!-- 
+### Explore Channel 😊
+
+[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw&theme=dark)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithdarkwa&theme=dark)  
+
+[![Codewithdarkwa github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithdarkwa&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarkwa&show_icons=true&theme=dark)  
+
+![Profile views](https://gpvc.arturio.dev/codewithdarkwa)   -->
+
+
