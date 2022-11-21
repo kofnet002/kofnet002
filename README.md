@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kofnet002
+- 👋 Hi, I’m Kofi Frimpong
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me ...
+- 📫 How to reach me <a href='mailto:noeljoel61@gmail.com'>noeljoel61@gmail.com </a>
 
 <!---
 kofnet002/kofnet002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,11 +53,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Explore Channel 😊
 
-[![CodeWithDarkwa youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCzU6QYLkI7WJi-KGMJcevGw&theme=dark)](https://www.youtube.com/channel/UCzU6QYLkI7WJi-KGMJcevGw)
+[![kofnet youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCwLZQg-Q1TDbq7u6Mm1HIpg&theme=dark)](https://www.youtube.com/channel/UCwLZQg-Q1TDbq7u6Mm1HIpg)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kofnet002&theme=dark)  
 
-[![Kofnet002 github activity graph](https://activity-graph.herokuapp.com/graph?username=kofnet002&theme=react-dark)](https://github.com/codewithdarkwa/github-readme-activity-graph)
+[![kofnet002 github activity graph](https://activity-graph.herokuapp.com/graph?username=kofnet002&theme=react-dark)](https://github.com/kofnet002/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)  
 
