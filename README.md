@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kofnet002&theme=dark)  
 
-![kofnet github activity graph](https://activity-graph.herokuapp.com/graph?username=kofnet002&theme=react-dark)](https://github.com/kofnet002/github-readme-activity-graph)
+[![kofnet github activity graph](https://activity-graph.herokuapp.com/graph?username=kofnet002&theme=react-dark)](https://github.com/kofnet002/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)  
 
