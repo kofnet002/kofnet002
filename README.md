@@ -30,6 +30,10 @@ You can click the Preview link to take a look at your changes.
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            </td>
         </tr>
         <tr valign="top">
           <td width="80px" align="center">
@@ -47,6 +51,11 @@ You can click the Preview link to take a look at your changes.
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>Laravel</strong></span><br>       
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
