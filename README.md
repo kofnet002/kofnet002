@@ -69,6 +69,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![Kofi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kofnet002&theme=github-compact)](https://github.com/kofnet002/github-readme-activity-graph) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)-->
 
 
