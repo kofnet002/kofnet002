@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kofnet002&theme=dark) -->  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kofnet002&theme=dark)](https://git.io/streak-stats)
 
-<!-- [![Kofi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kofnet002&theme=github-compact)](https://github.com/kofnet002/github-readme-activity-graph) -->
+[![Kofi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kofnet002&theme=github-compact)](https://github.com/kofnet002/github-readme-activity-graph)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)-->
 
