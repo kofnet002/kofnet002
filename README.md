@@ -31,8 +31,8 @@ You can click the Preview link to take a look at your changes.
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>PHP</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+            <span><strong>React Native</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
         </tr>
         <tr valign="top">
@@ -53,8 +53,8 @@ You can click the Preview link to take a look at your changes.
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             </td>
              <td width="80px" align="center">
-            <span><strong>Laravel</strong></span><br>       
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+            <span><strong>Flutter</strong></span><br>       
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
             </td>
         </tr>
     </tbody>
