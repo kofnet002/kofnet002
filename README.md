@@ -60,15 +60,22 @@ You can click the Preview link to take a look at your changes.
     </tbody>
 </table>
 
-### Explore Channel 😊
+## Explore Channel 😊
 
 [![kofnet youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCwLZQg-Q1TDbq7u6Mm1HIpg&theme=dark)](https://www.youtube.com/channel/UCwLZQg-Q1TDbq7u6Mm1HIpg)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kofnet002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kofnet002&theme=dark) -->  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kofnet002&theme=dark)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kofnet002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![Kofi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kofnet002&theme=github-compact)](https://github.com/kofnet002/github-readme-activity-graph)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofnet002&show_icons=true&theme=dark)-->
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kofnet002&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<br/>
