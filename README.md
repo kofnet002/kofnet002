@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me <a href='mailto:noeljoel61@gmail.com'>noeljoel61@gmail.com </a>
+- 📫 How to reach me via <a href='https://www.linkedin.com/in/kofi-frimpong-0071281b7'>LinkedIn</a>
 
 <!---
 kofnet002/kofnet002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
