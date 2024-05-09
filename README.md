@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kofi Frimpong
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Dynamic Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me via <a href='https://www.linkedin.com/in/kofi-frimpong-0071281b7'>LinkedIn</a>
