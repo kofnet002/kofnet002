@@ -4,14 +4,14 @@
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me via <a href='https://www.linkedin.com/in/kofi-frimpong-0071281b7'>LinkedIn</a>
 
-<!---
+<!---===
 kofnet002/kofnet002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
 
-<table width="420px">
+<table width="700px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
