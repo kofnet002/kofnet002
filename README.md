@@ -9,8 +9,6 @@ kofnet002/kofnet002 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 <table width="700px">
     <tbody>
         <tr valign="top">
