@@ -20,14 +20,14 @@ I build event-driven systems end to end: LLM pipelines, payment paths that are n
 | **G-Money admin** | The operations console for 8,200+ mobile-money customers, with RBAC, audit logging and transaction monitoring. |
 | **[Jampolls](https://jampolls.com)** | Lead frontend for 3 years: real-time multiplayer trivia over WebSockets, a survey engine and a live presenter mode. |
 | **Friday** | Real-time meeting intelligence. Live audio goes to Deepgram over WebSockets, and an LLM flags questions directed at you. |
-| **Loqie** | IoT-based smart locker and last-mile delivery system. Final-year capstone project. [▶ Demo](https://www.youtube.com/watch?v=somY-xggXNs) |
+| **Locqie** | IoT smart locker and last-mile delivery system, built as my final-year capstone. A Raspberry Pi drives solenoid locks over GPIO, with door sensors, a touchscreen kiosk and SMS notifications over GSM. [▶ Demo](https://www.youtube.com/watch?v=somY-xggXNs) |
 
 ---
 
 ### Stack
 
 **Languages**: TypeScript · Python · SQL · JavaScript  
-**Backend**: NestJS · Express · FastAPI · Django/DRF · gRPC · WebSockets · Celery · BullMQ · IoT systems  
+**Backend**: NestJS · Express · FastAPI · Django/DRF · gRPC · WebSockets · Celery · BullMQ · IoT (Raspberry Pi, GPIO)  
 **Frontend**: React · Next.js · React Native (Expo) · Redux Toolkit · TanStack Query · Tailwind  
 **AI & LLM**: OpenAI GPT-4o · Gemini · LlamaIndex · Pinecone · Deepgram  
 **Data**: PostgreSQL · MongoDB · Redis · Kafka/Redpanda · Prisma · Drizzle · SQLAlchemy  
@@ -43,7 +43,7 @@ I build event-driven systems end to end: LLM pipelines, payment paths that are n
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kofnet002&theme=dark)](https://git.io/streak-stats)
 
-[![Kofi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kofnet002&theme=github-compact)](https://github.com/kofnet002/github-readme-activity-graph)
+[![Kofi's GitHub contributions](https://ghchart.rshah.org/2ea043/kofnet002)](https://github.com/kofnet002)
 
 ### 🎥 YouTube
 
