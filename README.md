@@ -43,7 +43,7 @@ I build event-driven systems end to end: LLM pipelines, payment paths that are n
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kofnet002&theme=dark)](https://git.io/streak-stats)
 
-[![Kofi's GitHub contributions](https://ghchart.rshah.org/2ea043/kofnet002)](https://github.com/kofnet002)
+[![Kofi's GitHub activity graph](https://raw.githubusercontent.com/kofnet002/kofnet002/output/activity-graph.svg)](https://github.com/kofnet002)
 
 ### 🎥 YouTube
 
